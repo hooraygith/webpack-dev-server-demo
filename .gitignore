@@ -1,0 +1,15 @@
+﻿#忽略.idea文件夹的内容#
+
+.vscode/
+.idea/
+.svn/
+target/
+node_modules/
+/app/data/leave_reason.js
+/app/data/blood_type.js
+/app/data/provinceList.js
+/app/data/industry.js
+/app/data/company_scale.js
+/app/data/dictionary.js
+/app/data/help.js
+/build-server.config.json
