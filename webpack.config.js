@@ -7,8 +7,7 @@ var webpackConfig = {
     entry: './src/app.js',
     output: {
         path: __dirname + '/dist',
-        filename: 'js/[name]-[chunkhash:8].js',
-        chunkFilename: "js/chunk-[name]-[chunkhash:8].js"
+        filename: 'app.js'
     },
     module: {
         loaders: [
